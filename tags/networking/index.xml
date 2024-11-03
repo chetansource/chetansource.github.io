@@ -1,12 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Networking on G.L.I.T.C.H</title><link>https://chetansource.github.io/tags/networking/</link><description>Recent content in Networking on G.L.I.T.C.H</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 28 Oct 2024 14:00:00 +0000</lastBuildDate><atom:link href="https://chetansource.github.io/tags/networking/index.xml" rel="self" type="application/rss+xml"/><item><title>From Wi-Fi to the Web: How Your Home Network Connects to the Internet</title><link>https://chetansource.github.io/posts/network_flow/</link><pubDate>Mon, 28 Oct 2024 14:00:00 +0000</pubDate><guid>https://chetansource.github.io/posts/network_flow/</guid><description>&lt;div class="flex align-center gblog-post__anchorwrap">
- &lt;h3 id="have-you-ever-wondered-how-your-devices-connect-to-the-internet-or-what-happens-behind-the-scenes-when-you-open-a-website-your-home-network-is-the-backbone-of-this-experience"
- >
- Have you ever wondered how your devices connect to the internet, or what happens behind the scenes when you open a website? Your home network is the backbone of this experience.
- &lt;/h3>
- &lt;a data-clipboard-text="https://chetansource.github.io/posts/network_flow/#have-you-ever-wondered-how-your-devices-connect-to-the-internet-or-what-happens-behind-the-scenes-when-you-open-a-website-your-home-network-is-the-backbone-of-this-experience" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Have you ever wondered how your devices connect to the internet, or what happens behind the scenes when you open a website? Your home network is the backbone of this experience." href="#have-you-ever-wondered-how-your-devices-connect-to-the-internet-or-what-happens-behind-the-scenes-when-you-open-a-website-your-home-network-is-the-backbone-of-this-experience">
- &lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
- &lt;/a>
-&lt;/div>
-&lt;ul>
-&lt;li>&lt;strong>Overview&lt;/strong>: This post covers how your home router manages device connections, assigns IP addresses, and translates network requests. Understanding these basics provides insight into how your internet experience relies on network functions like IP addresses, DHCP, NAT, and DNS.&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networking on G.L.I.T.C.H</title>
+    <link>https://chetansource.github.io/tags/networking/</link>
+    <description>Recent content in Networking on G.L.I.T.C.H</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Oct 2024 14:00:00 +0000</lastBuildDate><atom:link href="https://chetansource.github.io/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Wi-Fi to the Web: How Your Home Network Connects to the Internet</title>
+      <link>https://chetansource.github.io/posts/network_flow/</link>
+      <pubDate>Mon, 28 Oct 2024 14:00:00 +0000</pubDate>
+      
+      <guid>https://chetansource.github.io/posts/network_flow/</guid>
+      <description>&lt;div class=&#34;flex align-center gblog-post__anchorwrap&#34;&gt;
+    &lt;h3 id=&#34;have-you-ever-wondered-how-your-devices-connect-to-the-internet-or-what-happens-behind-the-scenes-when-you-open-a-website-your-home-network-is-the-backbone-of-this-experience&#34;
+    &gt;
+        Have you ever wondered how your devices connect to the internet, or what happens behind the scenes when you open a website? Your home network is the backbone of this experience.
+    &lt;/h3&gt;
+    &lt;a data-clipboard-text=&#34;https://chetansource.github.io/posts/network_flow/#have-you-ever-wondered-how-your-devices-connect-to-the-internet-or-what-happens-behind-the-scenes-when-you-open-a-website-your-home-network-is-the-backbone-of-this-experience&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Have you ever wondered how your devices connect to the internet, or what happens behind the scenes when you open a website? Your home network is the backbone of this experience.&#34; href=&#34;#have-you-ever-wondered-how-your-devices-connect-to-the-internet-or-what-happens-behind-the-scenes-when-you-open-a-website-your-home-network-is-the-backbone-of-this-experience&#34;&gt;
+        &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Overview&lt;/strong&gt;: This post covers how your home router manages device connections, assigns IP addresses, and translates network requests. Understanding these basics provides insight into how your internet experience relies on network functions like IP addresses, DHCP, NAT, and DNS.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
