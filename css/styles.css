@@ -1,0 +1,27 @@
+#play-button {
+    display: flex;
+    align-items: center;
+    padding: 6px;
+    gap: 0.5em;
+    cursor: pointer;
+   border: 5px solid transparent;
+   border-radius: 15px;
+}
+
+.dynamic-text {
+  color: var(--text-color);
+  transition: color 0.3s ease;
+}
+
+/* Define light and dark themes */
+:root {
+  --text-color: #000000; /* Default for light mode */
+}
+
+[data-theme="dark"] {
+  --text-color: #FFFFFF; /* Adjust for dark mode */
+}
+
+#lazy-audio{
+    padding-top: 2px;
+}
