@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Security on G.L.I.T.C.H</title><link>https://chetansource.github.io/tags/security/</link><description>Recent content in Security on G.L.I.T.C.H</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 08:55:05 +0000</lastBuildDate><atom:link href="https://chetansource.github.io/tags/security/index.xml" rel="self" type="application/rss+xml"/><item><title>DNS Explained: The Secret System Behind Every Website Visit</title><link>https://chetansource.github.io/posts/dns/</link><pubDate>Sun, 01 Dec 2024 08:55:05 +0000</pubDate><guid>https://chetansource.github.io/posts/dns/</guid><description>&lt;div class="flex align-center gblog-post__anchorwrap">
+&lt;h1 id="why-do-we-need-dns"
+>
+Why Do We Need DNS?
+&lt;/h1>
+&lt;a data-clipboard-text="https://chetansource.github.io/posts/dns/#why-do-we-need-dns" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Why Do We Need DNS?" href="#why-do-we-need-dns">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/div>
+&lt;div class="flex align-center gblog-post__anchorwrap">
+&lt;h3 id="imagine-having-to-remember-the-long-string-of-numbers-for-every-website-you-visitlike-google-facebook-or-your-favorite-blog-sounds-like-a-nightmare-right-thats-where-dns-domain-name-systemsteps-in-it-acts-like-the-internets-phonebook-converting-easy-to-remember-website-names-into-the-numeric-ip-addresses-that-computers-understand"
+>
+Imagine having to remember the long string of numbers for every website you visit—like Google, Facebook, or your favorite blog. Sounds like a nightmare, right? That’s where DNS (Domain Name System)steps in! It acts like the internet’s phonebook, converting easy-to-remember website names into the numeric IP addresses that computers understand
+&lt;/h3>
+&lt;a data-clipboard-text="https://chetansource.github.io/posts/dns/#imagine-having-to-remember-the-long-string-of-numbers-for-every-website-you-visitlike-google-facebook-or-your-favorite-blog-sounds-like-a-nightmare-right-thats-where-dns-domain-name-systemsteps-in-it-acts-like-the-internets-phonebook-converting-easy-to-remember-website-names-into-the-numeric-ip-addresses-that-computers-understand" class="gblog-post__anchor clip flex align-center" aria-label="Anchor Imagine having to remember the long string of numbers for every website you visit—like Google, Facebook, or your favorite blog. Sounds like a nightmare, right? That’s where DNS (Domain Name System)steps in! It acts like the internet’s phonebook, converting easy-to-remember website names into the numeric IP addresses that computers understand" href="#imagine-having-to-remember-the-long-string-of-numbers-for-every-website-you-visitlike-google-facebook-or-your-favorite-blog-sounds-like-a-nightmare-right-thats-where-dns-domain-name-systemsteps-in-it-acts-like-the-internets-phonebook-converting-easy-to-remember-website-names-into-the-numeric-ip-addresses-that-computers-understand">
+&lt;svg class="gblog-icon gblog_link">&lt;use xlink:href="#gblog_link">&lt;/use>&lt;/svg>
+&lt;/a>
+&lt;/div></description></item></channel></rss>
